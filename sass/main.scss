@@ -1,11 +1,8 @@
-@import "./components/logo";
-@import "./components/navig";
 @import "./utils/important";
-@import "./utils/hidden";
 @import "./utils/variables";
-@import "./utils/backdrop";
+
 @import "./components/agencja-portfolio";
-@import "./components/button";
+@import "./components/service-button";
 @import "./components/card-set";
 @import "./components/clients-section";
 @import "./components/footer";
@@ -20,3 +17,5 @@
 @import "./components/social-icons";
 @import "./components/social-list";
 @import "./components/team";
+@import "./components/logo";
+@import "./components/navig";
